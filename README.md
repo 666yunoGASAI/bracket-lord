@@ -6,7 +6,7 @@
 
 I built Bracket Lord to show how I approach quality end to end: finding where an app is most likely to break, then building automation at the right layer to catch it. The app is small on purpose. The bracket rules (byes, seeding, results that change other results) are where the bugs hide.
 
-> **Live demo:** _add your Vercel link here_ · **Test report:** _see the latest CI run_
+> **Live demo:** _https://bracket-lord.vercel.app/_ · 
 
 ![Bracket Lord screenshot](docs/screenshot.png)
 
