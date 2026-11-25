@@ -38,7 +38,7 @@ export default function App() {
         </a>
       </header>
       <main className="container">{page}</main>
-      <footer className="site-footer">Built as a QA automation showcase.</footer>
+      <footer className="site-footer">Built by Akinon as a QA automation showcase.</footer>
     </>
   );
 }

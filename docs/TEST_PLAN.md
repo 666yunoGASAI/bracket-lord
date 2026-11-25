@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | **Product** | Bracket Lord v1.0 (single-elimination tournament manager) |
+| **Author** | Akinon |
 | **Test levels** | Unit, property-based, end-to-end (UI) |
 | **Tools** | Vitest, fast-check, Playwright (TypeScript), GitHub Actions |
 

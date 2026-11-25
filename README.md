@@ -98,3 +98,6 @@ docs/TEST_PLAN.md          # scope, risks, approach, test case inventory
 - Automated accessibility checks with axe-core
 - Visual regression snapshots of the bracket layout
 
+---
+
+Built by **Akinon** · QA automation showcase
